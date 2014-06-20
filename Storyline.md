@@ -1,3 +1,4 @@
+~~~
 #!/bin/chant --prophesy=true --legend --translate-from=rune
 #
 # Author: The Faithful Dwarf, Ríarh
@@ -11,8 +12,8 @@ use Doh'Labil( "Sound of Underground Spirits" );
 include Evil( Saliyah OneField JayBol Eyesogh[NULL] );
 
 my $History = &GoldenAge();
-my $Hero = &
-
+my $Hero = "Essiahs";
+~~~
 
 It was a Golden Age. The Mighty Warrior-Poets of the Debh-Ops clan worked together with The Estiers and the Kuh'Undar clans and together there was peace, prosperity and harmony in the Land. 
 
@@ -32,10 +33,13 @@ He studied under the tutelage of Yurken OldSun, high Priest of the Old Gods, Kee
 
 On all his travels and all his adventures, his constant companion was his pet Dwarf, the faithful Ríarh. Essiahs was ever-patient and calm, explaining how to polish, sharpen and wield the weapons of the Debh-Ops, including the magical Bash. Often did Essiahs help Ríarh in his pathic attempts to wield the powerful weapon. Essiahs showed Ríarh the secrets of the Shell, teaching him write only the Truth, and to wield the Words of Power as a true Warrior Poet. 
 
-## The original manuscript contains details of tortures, punishments and reprimands inflicted upon Ríarh by his master Essiahs. Whilst no-one could deny that these were deserved, it is clear that they are pure fabrication and fantasy - no-one could survive the torments that Ríarh describes in such graphic detail. 
-## The over-exaggeration of Ríarh's description make it obvious to even the casual observer of history that his so-called memoirs are a tissue of lies, no doubt brought on by his despicable drinking habits. 
-## As a dwarf, Ríarh was capable of consuming unheard of quantities of ale and mead - which he often forgot to remind his master, since it was the single contest he ever managed to win over his master. 
+~~~
+The original manuscript contains details of tortures, punishments and reprimands inflicted upon Ríarh by his master Essiahs. Whilst no-one could deny that these were deserved, it is clear that they are pure fabrication and fantasy - no-one could survive the torments that Ríarh describes in such graphic detail. 
 
+The over-exaggeration of Ríarh's description make it obvious to even the casual observer of history that his so-called memoirs are a tissue of lies, no doubt brought on by his despicable drinking habits. 
+
+As a dwarf, Ríarh was capable of consuming unheard of quantities of ale and mead - which he often forgot to remind his master, since it was the single contest he ever managed to win over his master. 
+~~~
 Indeed, as Mah'Teen the Bear bore witness, Essiahs was always patient, welcoming and helpful ready with advice and encouragement. 
 
 Essiahs was elected as Warrior Chief of the Debh'Ops clan, and lead the Tribe into an era of harmony, peace and prosperity.
