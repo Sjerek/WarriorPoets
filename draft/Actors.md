@@ -8,4 +8,5 @@ Riárh became her humble slave advisor, but despite his stature and disgusting f
 
 ### The Hook
 He had previously been an advisor to a Lord of the Land. A worm, hidden within the armor of a warrior.  
-With smoke and mirrors, he managed to hide his inadequacy from the Lords of the tribe. 
+With smoke and mirrors, he managed to hide his inadequacy from the Lords of the tribe. With threats, lies and deception he managed to suborn the true aims of the warriors and replace them with shadows and illusions. In the end, hwe was caught in his own lies, but his legacy was ripe with distrust and dishonour. 
+His lies cost the life of Beddina, Queen of th Debh'Ops, and the honour and fellowship of the tribes warriors. 
