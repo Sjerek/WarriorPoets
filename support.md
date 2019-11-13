@@ -8,6 +8,6 @@ Since I have successfully logged in, this feels "wrong". Is there anything that 
 
 "Sjerek" is a very unique name for me (and quite unique on the internet !), so I really do not want to lose this account on GitHub.   
 
-By updating this MD file, I hope that I have proved that my account is valid. 
+I have updated Sjerek/WarriorPoets/support.md with a copy of this email, which hopefully will help prove my identity.
 
 RichA. (aka Sjerek)
